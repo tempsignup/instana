@@ -1,3 +1,0 @@
-shell:echo "test"
-shell:exec "touch /tmp/test1234"
-
